@@ -1,4 +1,5 @@
 # Timbre Recognition: A Computer Vision Perspective
+by Kevin Pooler & Brett Payton
 
 This project is a part of the **AAI-521 course** in the Applied Artificial Intelligence Program at the University of San Diego (USD).  
 **Project Status**: [Completed]
